@@ -1,0 +1,3 @@
+[submodule "Tah-iOS"]
+	path = Tah-iOS
+	url = git@github.com:tah-io/Tah-iOS.git
