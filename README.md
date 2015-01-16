@@ -4,8 +4,8 @@ This app allows you to individually control and get data from all the pins of th
 
 This repository consists of the iOS and Android(coming soon) source code along with the corresponding Arduino sketch for the Tah  app.
 
-![Menu](media/Menu.PNG) ![13OFF](media/13OFF.PNG)
-![13ON](media/13ON.PNG)  
+![Menu](media/io.png) ![13OFF](media/pwm.png)
+![13ON](media/analog.png)  
 <a href="https://itunes.apple.com/us/app/tah/id909883039?mt=8"><img src="media/TahAppStore.jpg"></img></a>
 
 
