@@ -1,3 +1,6 @@
 [submodule "Tah-iOS"]
 	path = Tah-iOS
 	url = git@github.com:tah-io/Tah-iOS.git
+[submodule "Tah-Android"]
+	path = Tah-Android
+	url = git@github.com:tah-io/Tah-Android.git
